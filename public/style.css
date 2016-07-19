@@ -1,0 +1,7 @@
+#country-list li {
+/*  color:red;*/
+list-style-type: none;
+font-weight: 900;
+color: gray;
+padding: 0.5em;
+}
